@@ -1,0 +1,21 @@
+# Local data and cache files
+data/
+*.json
+*.png
+
+# Python environment variables & caches
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+
+# IDE configurations
+.idea/
+.vscode/
+
+# Data và kết quả xử lý
+data/raw/
+data/processed/
+reports/01_eda/
+reports/02_dim_reduction/
