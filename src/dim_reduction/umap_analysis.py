@@ -88,3 +88,4 @@ def run_umap_pipeline(X_scaled, y, N, cmap_seq, f, output_dir):
     f.write("- PCA giữ ít thông tin → dữ liệu có thể phi tuyến\n")
     f.write("- UMAP giúp biểu diễn cấu trúc phi tuyến tốt hơn\n")
     f.write("- UMAP phù hợp hơn PCA để trực quan dataset này\n")
+    
